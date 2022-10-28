@@ -27,7 +27,7 @@ We shall add 3 more binary columns denoting which platform the movie/tv show is 
 
 ### Value Propositions this project offers:
 
-### <font color = 'blue'>***As a user which OTT platform should I subscribe to in order to gain maximum benfits in terms of the content and to avoid investments in multiple streaming platforms?***</font><br>
+### <font color = 'blue'>***As a user which OTT platform should I subscribe to in order to gain maximum benefits in terms of the content and to avoid investments in multiple streaming platforms?***</font><br>
 ![image](https://user-images.githubusercontent.com/60042693/198736401-bbd8679b-2916-4c3d-8103-e56d9e1d69b5.png)<br>
 #### <font color = 'green'>The stacked bar graph shows the distribution of movies or TV shows based on their genre within the 3 OTT platforms. It is very evident that content wise, Netflix has the most number of movies / TV shows, followed by Amazon Prime and then Disney+. <br> As one would expect, Drama, Comedy and Action are the genres with the most available content.<br> A very surprising aspect of this graph is in the genre Animation. One would expect Disney+ to have the most content in Animation as Disney+ caters to a younger audience. However, Netflix has more Animation content than Disney+. <br> In contrast to this, Dinesy+ has more Family content than the other 2 platforms as one would expect. <br>So, from a subscriber point of view, Netflix would be the best option as it has more content within most genres in comparison to the other 2 OTT platforms. </font><br><br>
 
