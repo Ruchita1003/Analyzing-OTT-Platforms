@@ -1,5 +1,9 @@
 # Analyzing-OTT-Platforms
 
+Click here for the Video Walkthrough: [![Video Walkthrough](https://img.shields.io/badge/-Analyzing%20OTT%20Platforms-red??style=social&logo=Youtube&link=https://www.youtube.com/watch?v=XDs-nJZxyO4/view?usp=sharing)](https://www.youtube.com/watch?v=XDs-nJZxyO4/view?usp=sharing)
+
+Notebook best viewed in Google Collab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruchita1003/Analyzing-OTT-Platforms/blob/main/Analyzing_OTT_Platforms.ipynb)<br><br><br>
+
 Our dataset is not readily available as a single CSV and we plan on putting it together in the following manner:
 
 1)	We plan on concatenating 3 datasets from Kaggle in order to form an extensive one stop shop dataset that contains information regarding movies and tv shows available on Netflix, Amazon Prime Video and Disney+.<br>
@@ -15,9 +19,6 @@ The above mentioned 3 datasets seem to have null values and shall require handli
 We shall add 3 more binary columns denoting which platform the movie/tv show is aired on.<br><br>
 ### The master dataset will now compose of a total of 19,925 rows and 14 columns. (The number of rows might decrease depending on the result of the concatenation of the OTT platform datasets and IMDb dataset).
 
-Click here for the Video Walkthrough: [![Video Walkthrough](https://img.shields.io/badge/-Analyzing%20OTT%20Platforms-red??style=social&logo=Youtube&link=https://www.youtube.com/watch?v=XDs-nJZxyO4/view?usp=sharing)](https://www.youtube.com/watch?v=XDs-nJZxyO4/view?usp=sharing)
-
-Notebook best viewed in Google Collab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Ruchita1003/Analyzing-OTT-Platforms/blob/main/Analyzing_OTT_Platforms.ipynb)<br><br><br>
 
 ### <font color = 'blue'>***As a user which OTT platform should I subscribe to in order to gain maximum benfits in terms of the content and to avoid investments in multiple streaming platforms?***</font><br>
 ![image](https://user-images.githubusercontent.com/60042693/198736401-bbd8679b-2916-4c3d-8103-e56d9e1d69b5.png)<br>
