@@ -28,3 +28,12 @@ We shall add 3 more binary columns denoting which platform the movie/tv show is 
 ![image](https://user-images.githubusercontent.com/60042693/198737106-befeab27-6bd2-4087-b13d-407cb753597c.png)
 #### <font color = 'green'>In the above chart we can observe that animated movies have been highly ranked on all the three platforms. This could denote viewers high interest in this type of content. <br> One would expect Disney+ to dominate this aspect of content, but surprisingly it is Netflix that offers the most animated content.<br><br> **Bonus value proposition:** Amazon Prime lacks in this genre and should consider onboarding more of it in order to garner a diverse content and viewership pool. </font>
 
+### <font color = 'blue'>***Given the short attention span of kids do animated movie ratings get affected by their duration?***</font>
+![image](https://user-images.githubusercontent.com/60042693/198737286-a64fc64a-5cae-4175-a54e-8ce9baaffa80.png)
+#### <font color = 'green'> Based on the scatter plot we can see that most animated movies are rated well. However, movies which have a duration under 20 minutes have performed extremely well. All such short movies are found in Disney+. So for children with a very less attention span, Disney+ would be a great option to keep them engaged. </font>
+
+### <font color = 'blue'>***On which platform should  a production house release Halloween content (Horror movies/ shows) ?***</font>
+![image](https://user-images.githubusercontent.com/60042693/198737379-2f2db85f-d110-48fd-8159-6816ce350fda.png)
+#### <font color = 'green'>It is surprising to see that Disney+ has the highest average ratings in Horror movies/ TV shows, despite being a platform that caters to kids. However, while counting the total numbe of Horror movies/ shows on each platform we see that Disney+ has only 1 horror movie/ show and it is rated very high. <br> Netflix has the next highest average ratings for Horror with the sceond highest number of movies/ shows in that genre. Hence, Netflix would be a better platform to release a Horror film. <br><br>**Bonus value proposition:** Since, the one Horror movie on Disney+ has a high rating, they could consider adding more horror movies to diversify their overall content.
+
+
