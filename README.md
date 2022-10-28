@@ -23,7 +23,7 @@ The above mentioned 3 datasets seem to have null values and shall require handli
 
 2)	From IMDB data - [IMDB Dataset](https://datasets.imdbws.com) we also wish to append more columns such as “IMDb” ratings and “Genre” to the above concatenated dataset in order to facilitate more value propositions. These will be taken from the IMDb Dataset on Kaggle. We do not intend to use the entire dataset, rather just a tiny part of it. This dataset has multiple tables and the information required for this project shall be extracted from the “ImdbTitleBasics.csv” and “ImdbTitleRating.csv" files.<br>
 We shall add 3 more binary columns denoting which platform the movie/tv show is aired on.<br><br>
-### The master dataset will now compose of a total of 19,925 rows and 14 columns. (The number of rows might decrease depending on the result of the concatenation of the OTT platform datasets and IMDb dataset).<br><br>
+#### The master dataset will now compose of a total of 19,925 rows and 14 columns. (The number of rows might decrease depending on the result of the concatenation of the OTT platform datasets and IMDb dataset).<br><br>
 
 ### Value Propositions this project offers:
 
