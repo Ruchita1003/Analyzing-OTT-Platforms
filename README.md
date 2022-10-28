@@ -35,5 +35,8 @@ We shall add 3 more binary columns denoting which platform the movie/tv show is 
 ### <font color = 'blue'>***On which platform should  a production house release Halloween content (Horror movies/ shows) ?***</font>
 ![image](https://user-images.githubusercontent.com/60042693/198737379-2f2db85f-d110-48fd-8159-6816ce350fda.png)
 #### <font color = 'green'>It is surprising to see that Disney+ has the highest average ratings in Horror movies/ TV shows, despite being a platform that caters to kids. However, while counting the total numbe of Horror movies/ shows on each platform we see that Disney+ has only 1 horror movie/ show and it is rated very high. <br> Netflix has the next highest average ratings for Horror with the sceond highest number of movies/ shows in that genre. Hence, Netflix would be a better platform to release a Horror film. <br><br>**Bonus value proposition:** Since, the one Horror movie on Disney+ has a high rating, they could consider adding more horror movies to diversify their overall content.
+It is surprising to see that Disney+ has the highest average ratings in Horror movies/ TV shows, despite being a platform that caters to kids. However, while counting the total numbe of Horror movies/ shows on each platform we see that Disney+ has only 1 horror movie/ show and it is rated very high.
+Netflix has the next highest average ratings for Horror with the sceond highest number of movies/ shows in that genre. Hence, Netflix would be a better platform to release a Horror film.
 
+Bonus value proposition: Since, the one Horror movie on Disney+ has a high rating, they could consider adding more horror movies to diversify their overall content.
 
